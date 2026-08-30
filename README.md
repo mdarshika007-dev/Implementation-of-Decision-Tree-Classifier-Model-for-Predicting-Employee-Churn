@@ -49,6 +49,7 @@ plt.title("Confusion Matrix")
 plt.show()
 ~~~
 ## Output:
+<img width="1390" height="852" alt="image" src="https://github.com/user-attachments/assets/a96e0381-ace9-4baa-b281-b034b85faa29" />
 
 
 
